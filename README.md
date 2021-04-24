@@ -2,7 +2,7 @@
 
 **I'm Meisam Erwin Zarghani** :technologist:
 
-[Linkedin](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/) -:desktop_computer:- [Email](zarghani.m@gmail.com) -:mailbox_closed:- [oersonal web](https://meisam-zarghani.netlify.app/):
+:blue_book:   [Linkedin](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/)     :mailbox_closed:   [Email](zarghani.m@gmail.com)     :desktop_computer:    [Personal web](https://meisam-zarghani.netlify.app/).
 
 
 I am a quick learner and easily adapt to different hats (Full Stack Web Developer 🌐, Software Developer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
