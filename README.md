@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-**I'm Meisam Erwin Zarghani**
+**I'm Meisam Erwin Zarghani** :technologist:
 
-[Linkedin](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/) --- [Email](zarghani.m@gmail.com) --- [oersonal web](https://meisam-zarghani.netlify.app/):
+[Linkedin](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/) -:desktop_computer:- [Email](zarghani.m@gmail.com) -:mailbox_closed:- [oersonal web](https://meisam-zarghani.netlify.app/):
 
 
 I am a quick learner and easily adapt to different hats (Full Stack Web Developer 🌐, Software Developer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-
-
-![Gif](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
 
 🧐 More About Me:
 - 🔭   I’m currently working on React Framework.
@@ -16,7 +13,7 @@ I am a quick learner and easily adapt to different hats (Full Stack Web Develope
 - 💻   Most of my work are available on [GitHub].
 - 💬   Ask me about anything tech related, I am happy to help.
 - 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/).
-- 📚   When I am free, I love to play Guitar.
+- 📚   When I am free, I love to play Guitar :guitar:.
 
 🔨 Languages and Tools:
  - JavaScript 
@@ -26,3 +23,7 @@ I am a quick learner and easily adapt to different hats (Full Stack Web Develope
  - MongoDB
  - SQL Server
  - PHP
+
+Loc  :england:
+
+![Gif](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
