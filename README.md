@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Erwin6997/Erwin6997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Meisam Erwin Zarghani**
 
-Here are some ideas to get you started:
+[Linkedin](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/) --- [Email](zarghani.m@gmail.com) --- [oersonal web](https://meisam-zarghani.netlify.app/):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a quick learner and easily adapt to different hats (Full Stack Web Developer 🌐, Software Developer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+
+![Gif](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
+
+🧐 More About Me:
+- 🔭   I’m currently working on React Framework.
+- 🌱   I’m currently learning Artificial Intelligent.
+- 💻   Most of my work are available on [GitHub].
+- 💬   Ask me about anything tech related, I am happy to help.
+- 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meisam-e-zarghani-b2167691/).
+- 📚   When I am free, I love to play Guitar.
+
+🔨 Languages and Tools:
+ - JavaScript 
+ - Node JS
+ - CSS & SCSS
+ - HTML5
+ - MongoDB
+ - SQL Server
+ - PHP
