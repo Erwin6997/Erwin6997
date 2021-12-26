@@ -23,6 +23,9 @@ I am a quick learner and easily adapt to different hats (Full Stack Web Develope
  - MongoDB
  - SQL Server
  - PHP
+ - SAPUI5
+ - SAP HANA
+
 
 Loc  :england:
 
